@@ -1,0 +1,18 @@
+{
+  "name": "git-proyecto",
+  "version": "1.0.0",
+  "description": "Este es un proyecto de git - npm",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "git",
+    "html5",
+    "js",
+    "css"
+  ],
+  "author": "Arturo Reyes Franco",
+  "license": "ISC"
+}
